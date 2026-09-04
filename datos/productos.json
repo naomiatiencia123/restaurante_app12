@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "precio": 5.5,
+        "stock": 18
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza",
+        "precio": 8.0,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Papas fritas",
+        "precio": 2.5,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Coca Cola",
+        "precio": 1.5,
+        "stock": 25
+    }
+]
